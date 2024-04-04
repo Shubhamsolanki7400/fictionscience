@@ -1,0 +1,26 @@
+.navbar{
+    background-color: #1b2c8e;
+    color: white;
+    padding: 2px;
+    margin:15px;
+    border-radius: 5px;
+    font-weight: 700;
+}
+.list-item{
+    display: flex;
+    list-style: none;
+    justify-content: space-around;
+}
+.navbar1{
+    padding: 2px;
+    margin:-15px 15px 10px;;
+    border-radius: 5px;
+    font-weight: 700;
+    border: 1px solid ;
+}
+.list-item1{
+    display: flex;
+    list-style: none;
+    justify-content: space-around;
+}
+
